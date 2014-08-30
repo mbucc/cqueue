@@ -1,6 +1,10 @@
 See two sample programs in examples directory.
 
-To see code annotated with docco comments, download docco directory and view HTML files.
+To see code annotated with docco comments, download docco directory and view HTML files.  Or just read the man page:
 
 http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man3/queue.3
 
+
+A participant in clib (https://github.com/clibs/clib/wiki/Packages):
+
+	$ clib install mbucc/cqueue
